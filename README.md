@@ -13,7 +13,7 @@ Desenvolva uma narrativa/storytelling para essa visualização de dados consider
 
 Entregue em um PDF:
 
-[DADOS E RACISMO ESTRUTURAL NO SUS EM CURITIBA]([URL_do_Link](https://github.com/lucasmsorrentino/visuDados-storyTelling/blob/master/trablhoVDS.pdf))
+[DADOS E RACISMO ESTRUTURAL NO SUS EM CURITIBA](https://github.com/lucasmsorrentino/visuDados-storyTelling/blob/master/trablhoVDS.pdf)
 
 - O conjunto de dados brutos (ou uma visualização de dados que você acredite que possa ser melhorada);
 - Explicação do contexto e o público-alvo da visualização de dados e do storytelling que será desenvolvido;
